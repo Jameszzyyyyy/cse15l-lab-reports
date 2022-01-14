@@ -63,6 +63,7 @@ __Setting an SSH Key__
 ---------
 - Run the code `ssh -keygen` and create a pair of files called the _public key_ and _private key_.
 - After enter the file and passphrase, you will receive a random image like:
+
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab1-Setting%20an%20SSH%20Key.png?raw=true)
 - You will now be able to see two new files on your system.
 - Copy the public key to the .ssh directory of your user account on the server
@@ -84,4 +85,5 @@ such as `ssh cs15lwi22***@ieng6.ucsd.edu "ls"`
 - To let both run on server, we can run the command:
 
 `ssh cs15lwi22***@ieng6.ucsd.edu "javac WhereAmI.java; java WhereAmI"`
+
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab1-Optimizing%20Remote%20Running.jpeg?raw=true)
