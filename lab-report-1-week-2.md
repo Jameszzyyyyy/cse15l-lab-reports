@@ -1,11 +1,9 @@
 __CSE 15L Lab Report-1-week2__
 =========
-Ziyou Zhao ziz021@ucsd.edu
----------
+## Ziyou Zhao ziz021@ucsd.edu
 
 ***
-__Installing VScode__
----------
+## __Installing VScode__
 
 - Go to the VSCode website https://code.visualstudio.com.
 - Follow the instructions to download the correct version for your operating system.
@@ -14,8 +12,7 @@ __Installing VScode__
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab1-VSCode.png?raw=true)
 
 ***
-__Remotely Connecting__
----------
+## __Remotely Connecting__
 
 - Go to https://sdacs.ucsd.edu/~icc/index.php and find your acount.
 - Go to VSCode and open the Terminal.
@@ -26,8 +23,7 @@ __Remotely Connecting__
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab1-Remotely%20Connecting.png?raw=true)
 
 ***
-__Trying Some Commands__
----------
+## __Trying Some Commands__
 
 _Try some commands such as `cd`, `ls`, `pwd`_
 
@@ -39,8 +35,7 @@ _Try some commands such as `cd`, `ls`, `pwd`_
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab1-Trying%20Some%20Commands.png?raw=true)
 
 ***
-__Moving Fiels with scp__
----------
+## __Moving Files with scp__
 
 - Create a file on your computer called WhereAmI.java with the following content:
 
@@ -59,8 +54,8 @@ __Moving Fiels with scp__
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab1-Moving%20Files%20with%20scp.png?raw=true)
 
 ***
-__Setting an SSH Key__
----------
+## __Setting an SSH Key__
+
 - Run the code `ssh -keygen` and create a pair of files called the _public key_ and _private key_.
 - After enter the file and passphrase, you will receive a random image like:
 
@@ -72,8 +67,8 @@ use `ssh` command again.
 - After doing all these, you don't need to type your password when doing commands.
 
 ***
-__Optimizing Remote Running__
----------
+## __Optimizing Remote Running__
+
 - We can use quotation marks for commands directely `ssh` command, so that we can run them directely: 
 
 such as `ssh cs15lwi22***@ieng6.ucsd.edu "ls"`
