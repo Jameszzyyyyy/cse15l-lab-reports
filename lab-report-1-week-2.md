@@ -40,7 +40,7 @@ _Try some commands such as `cd`, `ls`, `pwd`_
 - Create a file on your computer called WhereAmI.java with the following content:
 
 ```
-#class WhereAmI {
+class WhereAmI {
     public static void main(String[] args) {
         System.out.println(System.getProperty("os.name"));    
         System.out.println(System.getProperty("user.name"));
