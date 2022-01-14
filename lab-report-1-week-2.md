@@ -35,7 +35,7 @@ _Try some commands such as `cd`, `ls`, `pwd`_
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab1-Trying%20Some%20Commands.png?raw=true)
 
 ***
-## __Moving Files with scp__
+## __Moving Files with `scp`__
 
 - Create a file on your computer called WhereAmI.java with the following content:
 
