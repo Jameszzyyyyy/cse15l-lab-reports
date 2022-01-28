@@ -1,4 +1,4 @@
-__**CSE 15L Lab Report-2-week4**__
+__CSE 15L Lab Report-2-week4__
 =========
 ## Ziyou Zhao ziz021@ucsd.edu
 
