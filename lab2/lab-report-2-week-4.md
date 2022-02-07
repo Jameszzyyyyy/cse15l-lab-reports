@@ -20,7 +20,7 @@ _**Symptom:**_
 
 _**Description:**_
 
-This bug appears because there is no close parentheses can be found in the file, so that when we compile and run the code, it shows in terminal that `StringIndexOutOfBoundsException`. Therefore, everythime when we write the code, we should try to consider very extreme cases about index.
+This bug appears because there is no close parentheses can be found in the file, so that when we compile and run the code, it shows in terminal that `StringIndexOutOfBoundsException`. This is because there is no result when we search for next bracket. I fixed it by using `if` statement, when there is a missing bracket/parenthesis, the while loop will `break` and return an empty list. Therefore, everythime when we write the code, we should try to consider very extreme cases about index.
 
 ***
 ## _**Second Code Change**_
@@ -40,7 +40,7 @@ _**Symptom:**_
 
 _**Description:**_
 
-This happens when we have two open parentheses, the code will include the second one into the result and print it out. So that when we see this kind of problem, we need to consider it as a possible case and find the solution to remove it from the result.
+This happens when we have two open parentheses, the code will include the second one into the result and print it out. I fixed it by using `if` statement when we find that there is another `openParen` because of typo, we let the second one be the `openParen`. Therefore, when we see this kind of problem, we need to consider it as a possible case and find the solution to remove it from the result.
 
 ***
 ## _**Third Code Change**_
