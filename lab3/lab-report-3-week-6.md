@@ -7,7 +7,7 @@ __CSE 15L Lab Report-2-week4__
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab3/lab3-config.png?raw=true)
 
 - In the terminal, use command `cd ~/.ssh` to change to SSH directory.
-- type `nano config` to create a config file using nano.
+- Type `nano config` to create a config file using nano.
 - In the file, add 
     ```
     Host ieng6
