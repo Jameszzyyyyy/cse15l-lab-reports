@@ -75,4 +75,4 @@ _**Reviewed Output**_
 
 _**Code Change**_
 
-Similar to Snippet2, I don't think that a small change will be able to fix the problem I have now, the problem is also index-out-of bound, and I will have to check if there is a missing `open bracket`, `closeparen`, these changes may take more than 10 lines.
+Similar to Snippet2, I don't think that a small change will be able to fix the problem I have now, the problem is also index-out-of bound, and I will have to check if there is a missing `openbracket`, `closeparen`, these changes may take more than 10 lines.
