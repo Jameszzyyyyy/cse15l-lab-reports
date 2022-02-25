@@ -29,6 +29,7 @@ _**Reviewed Output**_
 
 _**Code Change**_
 
+I believe that a small change would be able to fix the problem in my program. The problem now is that it count `url.com` as a valid link while count `ucsd.edu` as an invalid one. For `url.com`, I only need a `if statement` to check if the openbracket is at the first index; and for `ucsd.edu`, it causes error because of the nested bracket, I think I only need a `if statement` to check if the previous character is at backtick.
 
 
 ## _**Snippet2**_
