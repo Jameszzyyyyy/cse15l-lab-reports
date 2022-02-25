@@ -52,6 +52,7 @@ _**Reviewed Output**_
 
 _**Code Change**_
 
+I believe that a small change of code will not able to fix the problem, the problem now is that the index is out-of-bound. In order to fix it, I will have to check many different things to make it be able to pass in different situations, such as check if there is additional brackets. These changes will be more than 10 lines.
 
 
 ## _**Snippet3**_
@@ -74,3 +75,4 @@ _**Reviewed Output**_
 
 _**Code Change**_
 
+Similar to Snippet2, I don't think that a small change will be able to fix the problem I have now, the problem is also index-out-of bound, and I will have to check if there is a missing `open bracket`, `closeparen`, these changes may take more than 10 lines.
