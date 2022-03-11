@@ -16,7 +16,9 @@ Instead of using `diff`, I manually run the test file `194.md` on my implementat
 
 - **Which one is correct & How to fix**
 
-Between these two results, I would say that mine is more likely to be the correct one, because it is not a valid link. 
+Between these two results, I would say that mine is more likely to be the correct one because there are `:` and texts outside the parentheses and behind the brackets in the test file `194.md`, the link is not valid. Therefore, we should add some codes to check if there is text between bracket and parenthesis, and see if parenthesis is right after the bracket.
+
+![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/194fix.png?raw=true)
 
 
 ##_**510.md**_
