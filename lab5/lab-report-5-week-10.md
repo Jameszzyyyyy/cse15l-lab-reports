@@ -6,7 +6,7 @@ __CSE 15L Lab Report-5-week10__
 
 ## _**Different Results**_
 
-Instead of using `diff`, I manually run same test files on two implementations, and compare their results.
+Instead of using `diff`, I manually run same test files on my implementation and class implementation separately, and compare their results.
 
 - **194.md**
 
@@ -16,3 +16,10 @@ Instead of using `diff`, I manually run same test files on two implementations, 
 
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/510.png?raw=true)
 
+##_**Which one is correct & How to fix**_
+
+- **194.md**
+
+![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/194test.png?raw=true)
+
+Between these two results, I would say that mine is more likely to be the correct one, because it is not a valid link. 
