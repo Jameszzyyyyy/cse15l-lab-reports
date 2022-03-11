@@ -21,7 +21,7 @@ Between these two results, I would say that mine is more likely to be the correc
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/194fix.png?raw=true)
 
 
-##_**510.md**_
+## _**510.md**_
 
 - **Different Results**
 
