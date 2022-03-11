@@ -4,22 +4,28 @@ __CSE 15L Lab Report-5-week10__
 
 ***
 
-## _**Different Results**_
+## _**194.md**_
 
-Instead of using `diff`, I manually run same test files on my implementation and class implementation separately, and compare their results.
+Instead of using `diff`, I manually run the test file `194.md` on my implementation and class implementation separately, and compare their results.
 
-- **194.md**
-
-![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/194.png?raw=true)
-
-- **510.md**
-
-![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/510.png?raw=true)
-
-##_**Which one is correct & How to fix**_
-
-- **194.md**
+- **Different Results**
 
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/194test.png?raw=true)
 
+![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/194.png?raw=true)
+
+- **Which one is correct & How to fix**
+
 Between these two results, I would say that mine is more likely to be the correct one, because it is not a valid link. 
+
+
+##_**510.md**_
+
+- **Different Results**
+
+Same as the `194.md`, I manually run `510.md` on both implementations separately and compare their ourputs
+
+![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/510test.png?raw=true)
+
+![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/510.png?raw=true)
+
