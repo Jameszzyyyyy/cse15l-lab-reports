@@ -33,6 +33,6 @@ Same as the `194.md`, I manually run `510.md` on both implementations separately
 
 - **Which one is correct & How to fix**
 
-Again, I think that my implementation is correct while the one I cloned is incorrect because there is a space between the `closeBracket` and the `openParen`. So that the cloned implemantation with the result of `[/url]` should print nothing. In order to fix it, similar to how to fix the code for `194.md`, we should add a `if` statement to see if there is space between `openParen` and `closeBracket`, which means whether the `openParen` is right after `closeBracket`.
+Again, I think that my implementation is correct while the one I cloned is incorrect because there is a space between the `closeBracket` and the `openParen`. So that the cloned implemantation with the result of `[/url]` should print nothing. In order to fix it, similar to how to fix the code for `194.md`, we should add a `if statement` to see if there is space between `openParen` and `closeBracket`, which means whether the `openParen` is right after `closeBracket`.
 
 ![Image](https://github.com/Jameszzyyyyy/cse15l-lab-reports/blob/main/lab5/510fix.png?raw=true)
